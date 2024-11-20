@@ -1,0 +1,11 @@
+# Force LF line endings
+* text eol=lf
+*.riv binary
+*.png binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+*.eot binary
+*.jpg binary
+*.mp4 binary
